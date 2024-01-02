@@ -1,0 +1,33 @@
+.CardContainer {
+    display: flex;
+    margin: 24px;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+    max-width: 1276px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+
+.Img {
+  display: flex;
+  flex-direction: column;
+  background-image: url(../../assets/PredioAzul.png);
+  height: 648px;
+  width: 50%;
+}
+
+.Img2 {
+  background-color: #fff;
+  height: 24px;
+  width: 100%;
+  color: #fff;
+  margin-top: 12rem ;
+}
+
+.Titulo{
+    font-size: 96px;
+    font-family: Fredericka the Great;
+    padding: 5rem 4rem;
+    width: 50%;
+}

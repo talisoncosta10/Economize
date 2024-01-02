@@ -1,0 +1,74 @@
+.LoginContainer {
+  background-image: url(../../assets/PredioAzul.png);
+  width: 1980px;
+  height: 1034px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 140px;
+}
+
+.SignUpArea {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 113px;
+  background-color: #254872;
+  width: 630px;
+  height: 714px;
+  gap: 22px 0;
+}
+
+.SignInArea {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 60px;
+  background-color: #f9f9f9;
+  width: 630px;
+  height: 714px;
+}
+
+.LogoImagem {
+}
+
+.FormCampo {
+  width: 511px;
+  height: 69px;
+  margin: 20px 0;
+}
+
+.BotaoAzul {
+  width: 190px;
+  height: 51px;
+  background-color: #254872;
+  color: #f9f9f9;
+  border-radius: 50px;
+}
+
+.BotaoBranco {
+    width: 200px;
+    height: 51px;
+    background-color: #f9f9f9;
+    border-radius: 50px;
+    font-weight: bold;
+  }
+
+.Titulo1 {
+  width: 404px;
+  height: 116px;
+  color: #f9f9f9;
+  text-align: center;
+  font-family: Fredericka the Great;
+  font-size: 48px;
+}
+
+.Titulo2 {
+  width: 404px;
+  height: 79px;
+  font-size: 24px;
+  color: #f9f9f9;
+  font-weight: 400;
+}
