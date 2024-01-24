@@ -1,0 +1,17 @@
+body {
+  background-color: #d6dbdf;
+}
+
+.calendario {
+  background-color: #ffffff;
+  width: 210px;
+}
+
+.iconeSetaBaixo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #254872;
+  height: 42px;
+  width: 84px;
+}

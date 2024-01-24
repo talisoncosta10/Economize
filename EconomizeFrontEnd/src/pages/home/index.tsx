@@ -1,8 +1,9 @@
+import MonthFilter from "../../components/MonthFilter";
 
 export default function Home(){
     return(
         <div>
-            Tela Principal
+            <MonthFilter />
         </div>
     )
 }
