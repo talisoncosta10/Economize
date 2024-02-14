@@ -118,7 +118,7 @@ export default function MonthFilter() {
       </div>
 
       {menu && (
-        <div className="flex gap-5 absolute bg-white w-90 left-6 rounded-md p-6 justify-center mt-1 shadow-md">
+        <div className="flex gap-5 absolute bg-white w-90 left-6 rounded-md p-6 justify-center mt-1 shadow-md z-10">
           <ul className="grid grid-cols-3 gap-2 content-around border-r pr-4">
             {monthList.map((item, index = 0) => (
               <li
